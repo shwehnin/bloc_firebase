@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "942152496560",
+    "project_id": "blocfirebase-edecf",
+    "storage_bucket": "blocfirebase-edecf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942152496560:android:53a360ef0e0429cd5cd275",
+        "android_client_info": {
+          "package_name": "com.example.bloc_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrbXaTtplbsO2CrvPYxW3HLZBDttx0avw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
